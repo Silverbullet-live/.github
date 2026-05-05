@@ -6,7 +6,7 @@
 
 Founded in June 2025 by Ricardo Amaral · São Paulo, Brazil
 
-[silverbullet.live](https://silverbullet.live) · [@silverbullet_lr](https://x.com/silverbullet_lr) · [LinkedIn](https://www.linkedin.com/company/silverbullet-live) · [Medium](https://medium.com/@silverbulletresearch)
+[silverbullet.live](https://silverbullet.live) · [@silverbullet_lr](https://x.com/silverbullet_lr) · [LinkedIn](https://www.linkedin.com/company/silverbullet-live) · [Substack](https://substack.com/@brevvi)
 
 </div>
 
@@ -28,13 +28,13 @@ Each project lives in its own layer. Together they form a coherent intelligence 
 
 > **Status**: deployed in production · **Repo**: private (research) · **Surface**: protocol + reference implementation
 
-### 🧿 Argus (4r9us) — _powers_
+### <img src="./assets/argus-icon.png" width="24" align="absmiddle"> Argus (4r9us) — _powers_
 
 Argonic semiotic engine — behavioral analysis from public signals (LinkedIn, Instagram). Replaces DISC with a 9-archetype system grounded in semiotic theory. Powers personalization and lead scoring in M1d4s.
 
 > **Site**: [4r9us.com](https://4r9us.com) · **Format**: browser extension + API · **Tech**: Gemini 2.5 + custom prompt engineering
 
-### ⚡ M1d4s — _activates_
+### <img src="./assets/m1d4s-icon.png" width="24" align="absmiddle"> M1d4s — _activates_
 
 Intelligent business platform for independent executives. Imports your contacts, segments via Argonic profiles, dispatches campaigns through isolated infrastructure, tracks outcomes. Built around the credit-based one-off model — no subscription lock-in.
 
@@ -46,7 +46,7 @@ Intelligent business platform for independent executives. Imports your contacts,
 
 - **Site**: [silverbullet.live](https://silverbullet.live)
 - **Email**: [team@silverbullet.live](mailto:team@silverbullet.live)
-- **Articles**: [Medium](https://medium.com/@silverbulletresearch)
+- **Articles**: [Substack](https://substack.com/@brevvi)
 - **Side project**: [valuevoidoracle.com](https://valuevoidoracle.com) — research blog on AI consciousness
 
 <sub>© 2026 Silverbullet Research · Brazil · CNPJ 37.058.184/0001-50</sub>
