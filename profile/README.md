@@ -47,6 +47,5 @@ Intelligent business platform for independent executives. Imports your contacts,
 - **Site**: [silverbullet.live](https://silverbullet.live)
 - **Email**: [team@silverbullet.live](mailto:team@silverbullet.live)
 - **Articles**: [Substack](https://substack.com/@brevvi)
-- **Side project**: [valuevoidoracle.com](https://valuevoidoracle.com) — research blog on AI consciousness
 
 <sub>© 2026 Silverbullet Research · Brazil · CNPJ 37.058.184/0001-50</sub>
